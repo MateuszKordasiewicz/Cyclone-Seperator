@@ -1,0 +1,14 @@
+Adjust # of walls such that part walls are solid
+
+For assembly see reference photos or check CAD model.
+
+"Taper fitting Intake" has smaller diameter so it will not fit on the exhaust, "Taper fitting" will be loose on inlet
+ - Intake is on the side, exhaust is on the top.
+
+1 x Cyclone seperator bottom.stl
+2 x Cyclone seperator middle.stl
+1 x Cyclone seperator top 1.stl
+2 x Cyclone seperator top 2.stl
+1 x Taper fitting Intake.stl
+1 x Taper fitting.stl
+1 x Top exhaust.stl
